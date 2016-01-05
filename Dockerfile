@@ -23,6 +23,7 @@ RUN apt-get update -y && \
     php5-redis \
     php5-sqlite \
     php5-xdebug \
+    php5-intl \
     php5-xmlrpc \
     php5-xcache
 
